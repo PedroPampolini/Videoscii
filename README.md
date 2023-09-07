@@ -4,6 +4,7 @@ Converte um vídeo em ASCII e salva em um arquivo.txt.
 
 # Exemplos
 https://www.youtube.com/watch?v=jE7_ZoOF0I4
+
 www.youtube.com/watch?v=rva3E0iga0w
 
 ## Como usar
@@ -45,6 +46,7 @@ Converts a video to ASCII and saves it in a .txt file.
 
 # Examples
 https://www.youtube.com/watch?v=jE7_ZoOF0I4
+
 www.youtube.com/watch?v=rva3E0iga0w
 
 
