@@ -2,6 +2,10 @@
 
 Converte um vídeo em ASCII e salva em um arquivo.txt.
 
+# Exemplos
+https://www.youtube.com/watch?v=jE7_ZoOF0I4
+www.youtube.com/watch?v=rva3E0iga0w
+
 ## Como usar
 
 Para converter o vídeo em ASCII, crie uma instância da classe `VideoToASCII` passando como parâmetros o caminho do arquivo de vídeo e o caminho do arquivo de saída .txt:
@@ -38,6 +42,11 @@ Algumas bibliotecas são necessárias para esse projeto, sendo elas:
 # Videoscii - English
 
 Converts a video to ASCII and saves it in a .txt file.
+
+# Examples
+https://www.youtube.com/watch?v=jE7_ZoOF0I4
+www.youtube.com/watch?v=rva3E0iga0w
+
 
 ## How to Use
 
